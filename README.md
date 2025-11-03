@@ -49,4 +49,4 @@ This project is built with Flutter and serves as a starting point for mobile dev
   ## 👥 Contributors
 
 - [@Mr41022](https://github.com/Mr41022) – Project Lead
-- [@vaibhavksinha](((https://github.com/vaibhavksinha)) – UI Design & Documentation
+- [@vaibhavksinha](((https://github.com/vaibhavksinha)) – project development
