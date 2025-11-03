@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "382159267499",
+    "firebase_url": "https://lor-master-c3b95-default-rtdb.firebaseio.com",
+    "project_id": "lor-master-c3b95",
+    "storage_bucket": "lor-master-c3b95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382159267499:android:ebf71219794e64ac6f79ee",
+        "android_client_info": {
+          "package_name": "com.example.major_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382159267499-8j5fphtev7o047peltbn8q5oi87bjfs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.major_project",
+            "certificate_hash": "de0b17e11844266a3014f3e90d5b9bcb46205f4f"
+          }
+        },
+        {
+          "client_id": "382159267499-stujrldtjlpt1aa39as41kuodat4jvci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ih0eOv0yY8ZT21kqepceAKtGP0eBA0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382159267499-stujrldtjlpt1aa39as41kuodat4jvci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382159267499-npfctmdfn6hj1boehhpd13c6a74tofnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.majorProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382159267499:android:cdb13b65069c433e6f79ee",
+        "android_client_info": {
+          "package_name": "lormaster.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382159267499-q8r1gbl2fa9fon7c9cmjeqgbpr5hbean.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lormaster.com",
+            "certificate_hash": "de0b17e11844266a3014f3e90d5b9bcb46205f4f"
+          }
+        },
+        {
+          "client_id": "382159267499-stujrldtjlpt1aa39as41kuodat4jvci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ih0eOv0yY8ZT21kqepceAKtGP0eBA0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382159267499-stujrldtjlpt1aa39as41kuodat4jvci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382159267499-npfctmdfn6hj1boehhpd13c6a74tofnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.majorProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
