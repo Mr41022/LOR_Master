@@ -45,3 +45,8 @@ This project is built with Flutter and serves as a starting point for mobile dev
 - **Frontend**: Flutter
 - **Backend**: Firebase (or your chosen backend)
 - **Security**: OAuth, encryption protocols
+
+  ## 👥 Contributors
+
+- [@Mr41022](https://github.com/Mr41022) – Project Lead
+- [@vaibhavksinha](((https://github.com/vaibhavksinha)) – UI Design & Documentation
